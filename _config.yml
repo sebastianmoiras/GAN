@@ -1,0 +1,8 @@
+title: "Generative Adversarial Network (GAN)"
+description: >
+  Deep learning project using GANs to recreate pistachio images, 
+  demonstrating generative modeling and synthetic image generation.
+author: "Jonathan Sebastian Moiras"
+github_username: sebastianmoiras
+show_downloads: false
+theme: jekyll-theme-minimal
