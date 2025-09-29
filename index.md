@@ -6,7 +6,7 @@ Through adversarial training, the generator improves over time, producing increa
 ---
 
 **Actual Image**  
-![GAN actual](/assets/actual.png)
+![GAN actual](/assets/Actual.png)
 
 ## Training Progress
 
